@@ -1,4 +1,4 @@
-# Yadnik Bangale — Backstage Portfolio
+# Yadnik Bangale's Portfolio
 
 A single-page, animated "backstage" themed portfolio site. Visitors open on a first-person drummer's POV, hit the crash cymbal to "walk backstage" through an animated corridor, and land in a green-room hub where six doors lead to About, Skills, Projects, Experience, Achievements, and Contact.
 
